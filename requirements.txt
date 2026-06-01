@@ -1,0 +1,10 @@
+vk_audio @ git+https://github.com/imartemy1524/vk_audio.git
+customtkinter>=5.2.0
+pygame>=2.5.0
+requests>=2.31.0
+mutagen>=1.47.0
+Pillow>=10.0.0
+SQLAlchemy>=2.0.0
+pyinstaller>=6.0.0
+cryptography>=41.0.0
+colorthief>=0.2.1
